@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ...
+                            B.Tech in Artificial Intelligence And Data Science.
+  
+- 🔭 I’m currently working on ...
+                            A project i.e an e-commerce web that reaches more fashion designing merchants and their clients.
+
+-👯 I'm ready to free lance ...
+                            In any web development projects.
+
+
 <!--
 **vigneshat-Git/vigneshat-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
