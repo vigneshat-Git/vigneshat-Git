@@ -4,7 +4,7 @@
                             B.Tech in Artificial Intelligence And Data Science.
   
 - 🔭 I’m currently working on ...
-                            A project i.e connecting peopl that reaches more consultants or jobseekers and their clients.
+                            A project i.e connecting people across the world that reaches more consultants or jobseekers and their clients.
 
 - 👯 I'm ready to free lance ...
                             In any web development projects.
