@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Vignesh | Blockchain & Full-Stack Developer
+# Hi, I'm Vignesh | Blockchain & Full-Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
@@ -8,18 +8,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a **Blockchain & Systems Developer** passionate about bringing silicon-level security to decentralized networks. I specialize in bridging low-level hardware security (TEE, Android StrongBox, Secure Enclaves) with EVM-compatible blockchains to create tamper-proof, zero-trust applications.
 
-- 🔭 **Currently Building:** **Proof of Capture** — A zero-trust mobile system that cryptographically signs camera sensor hashes using hardware Keystores and anchors them immutably to the **Polygon** blockchain.
-- 🔐 **Core Passions:** Hardware-Backed Cryptography, Smart Contract Security, Offline-First Mobile Architectures, and Layer-2 Scaling.
-- 💬 **Ask me about:** ECDSA/Ed25519 signing, EVM smart contracts, cross-platform mobile architecture (Flutter / React Native), and relayer systems.
-- ⚡ **Fun Fact:** I believe the strongest security happens at the physical hardware boundary before data ever hits the network.
-
+- **Currently Building:** **Proof of Capture** — A zero-trust mobile system that cryptographically signs camera sensor hashes using hardware Keystores and anchors them immutably to the **Polygon** blockchain.
+- **Core Passions:** Hardware-Backed Cryptography, Smart Contract Security, Offline-First Mobile Architectures, and Layer-2 Scaling.
+- **Ask me about:** ECDSA/Ed25519 signing, EVM smart contracts, cross-platform mobile architecture (Flutter / React Native), and relayer systems.
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### Tech Stack & Toolkit
 
 #### ⛓️ Blockchain & Web3
 <p align="left">
@@ -31,7 +29,7 @@ I am a **Blockchain & Systems Developer** passionate about bringing silicon-leve
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
 </p>
 
-#### 📱 Mobile & Frontend
+#### Mobile & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -40,7 +38,7 @@ I am a **Blockchain & Systems Developer** passionate about bringing silicon-leve
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-#### 🖥️ Backend, Security & Persistence
+#### Backend, Security & Persistence
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -51,17 +49,8 @@ I am a **Blockchain & Systems Developer** passionate about bringing silicon-leve
 
 ---
 
-### 🌟 Featured Project: Proof of Capture
+### Featured Project: Proof of Capture
 
 > **A zero-trust digital media verification protocol that combats deepfakes and image tampering directly at the point of capture.**
 
 ```text
-[ Camera Sensor / Hardware ] 
-       │
-       ▼
-[ Hardware Keystore / StrongBox ] ── (ECDSA Sign SHA-256) ──► [ Local SQLite Ledger ]
-                                                                      │
-                                                               (Offline Buffer)
-                                                                      │
-                                                                      ▼
-[ Polygon L2 Smart Contract ] ◄── (Immutable Anchor) ── [ Node.js Relayer API ]
